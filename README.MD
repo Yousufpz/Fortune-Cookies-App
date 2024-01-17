@@ -32,6 +32,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Feel free to reach out to me if you have any questions or feedback about this project!
 
-- Email: [Click here to send me an email](mailto:mohdyousufparvez@gmail.com)
+- Email: [mohdyousufparvez@gmail.com](mailto:mohdyousufparvez@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/mohd-yousuf-parvez/](https://www.linkedin.com/in/mohd-yousuf-parvez/)
 
